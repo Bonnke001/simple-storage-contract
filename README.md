@@ -1,2 +1,2 @@
-# simple-storage-smart-contract
+# simple-storage-contract
 simple storage smart contract using foundry.
